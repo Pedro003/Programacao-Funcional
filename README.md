@@ -1,2 +1,2 @@
-# Programa-o-Funcional
+# Programacao Funcional
 Maybe it could help someone : )
